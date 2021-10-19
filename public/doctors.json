@@ -1,0 +1,57 @@
+[
+    {
+      "id": "616da443ed5f7f09e261d807",
+      "name": "Dr. Adamaris",
+      "picture":" ./images/d1.png ",
+      "category": "Heart specialist "
+    },
+    {
+      "id": "616da4433f19116b27a7d1a1",
+      "name": "  Dr. Jany Doe",
+      "picture": " ./images/d2.png ",
+      "details": "The Heart Care Heart Hospital have latest technology machines with experty Heart specialist doctors consectetur adipisicing elit. Distinctio vitae maiores enim ea atque? Natus iure autem cumque, quaerat distinctio pariatur velit illo hic a eos accusamus deleniti totam repellendus reiciendis, nobis vero dolorem nesciunt officia facere perspiciatis fugiat. ",
+      "category": "General Physician "
+    },
+    {
+      "id": "616da443068a7ee2de8d04dd",
+      "name": " Dr. Stewartly",
+      "picture": " ./images/d3.png ",
+      "details": "The Heart Care Heart Hospital have latest technology machines with experty Heart specialist doctors consectetur adipisicing elit. Distinctio vitae maiores enim ea atque? Natus iure autem cumque, quaerat distinctio pariatur velit illo hic a eos accusamus deleniti totam repellendus reiciendis, nobis vero dolorem nesciunt officia facere perspiciatis fugiat. ",
+      "category": "Senior Cardiologist "
+    },
+    {
+      "id": "616da4432e7cdb36931c60bc",
+      "name": "  Dr. Archibald",
+      "picture": "./images/d4.png  ",
+      "details": " The Heart Care Heart Hospital have latest technology machines with experty Heart specialist doctors consectetur adipisicing elit. Distinctio vitae maiores enim ea atque? Natus iure autem cumque, quaerat distinctio pariatur velit illo hic a eos accusamus deleniti totam repellendus reiciendis, nobis vero dolorem nesciunt officia facere perspiciatis fugiat.",
+      "category": " Senior Cardiologist "
+    },
+    {
+      "id": "616da4437d6f0434869eb4ef",
+      "name": "Dr. Chalmers ",
+      "picture": " ./images/d5.png ",
+      "details": " The Heart Care Heart Hospital have latest technology machines with experty Heart specialist doctors consectetur adipisicing elit. Distinctio vitae maiores enim ea atque? Natus iure autem cumque, quaerat distinctio pariatur velit illo hic a eos accusamus deleniti totam repellendus reiciendis, nobis vero dolorem nesciunt officia facere perspiciatis fugiat.",
+      "category": "General Physician "
+    },
+    {
+      "id": "616da443c7cfc06f723fd86c",
+      "name": " Dr. Algernon ",
+      "picture": "./images/d6.png  ",
+      "details": "The Heart Care Heart Hospital have latest technology machines with experty Heart specialist doctors consectetur adipisicing elit. Distinctio vitae maiores enim ea atque? Natus iure autem cumque, quaerat distinctio pariatur velit illo hic a eos accusamus deleniti totam repellendus reiciendis, nobis vero dolorem nesciunt officia facere perspiciatis fugiat. ",
+      "category": "Senior Cardiologist "
+    },
+    {
+      "id": "616da44363536bd122b8968f",
+      "name": "Dr. Benson Loius ",
+      "picture": "./images/d7.png  ",
+      "details": "The Heart Care Heart Hospital have latest technology machines with experty Heart specialist doctors consectetur adipisicing elit. Distinctio vitae maiores enim ea atque? Natus iure autem cumque, quaerat distinctio pariatur velit illo hic a eos accusamus deleniti totam repellendus reiciendis, nobis vero dolorem nesciunt officia facere perspiciatis fugiat. ",
+      "category": "Senior Heart Surgeon "
+    },
+    {
+      "id": "616da44363536bd122b8965o",
+      "name": " Dr. Joe Leoni",
+      "picture": "./images/d8.png  ",
+      "details": "The Heart Care Heart Hospital have latest technology machines with experty Heart specialist doctors consectetur adipisicing elit. Distinctio vitae maiores enim ea atque? Natus iure autem cumque, quaerat distinctio pariatur velit illo hic a eos accusamus deleniti totam repellendus reiciendis, nobis vero dolorem nesciunt officia facere perspiciatis fugiat. ",
+      "category": "Senior Heart Specialist "
+    }
+  ]

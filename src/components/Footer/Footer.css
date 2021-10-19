@@ -1,0 +1,19 @@
+.dep-container li,.doc-container li, .contact-container ul{
+    list-style: none;
+    margin-right:0;
+    align-items: center;
+    justify-items: center;
+  
+}
+.dep-container .dep-icon{
+    font-size: 20px;
+    color:rgb(247, 138, 35);
+    
+}
+
+ 
+.doc-icon{
+    font-size: 24px;
+    color:lightskyblue;
+    /* margin-left: 10px; */
+}

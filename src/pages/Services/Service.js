@@ -4,10 +4,12 @@ import {FaInstagram,FaTwitter,FaFacebookF} from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 
 
+
 const Service = ({doctor}) => {
     const {id,name,category,picture} = doctor;
     return (
             <Col xs={12} md={3} >
+               
                 <div >
                 <img src={picture} className="dep-img"  alt="" />
                
@@ -27,6 +29,7 @@ const Service = ({doctor}) => {
 
                 </Link>
                  </div>
+                 
             </Col>
     );
 };

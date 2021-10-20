@@ -5,6 +5,7 @@
     border:3px solid lightcyan;
     padding:10px;
     overflow: hidden;
+    transform: all ease-in-out 3s;
 }
 /* .img-div:before{
     content: "";
@@ -47,23 +48,7 @@ img-div:hover:before{
     background-color:brown;
     color:white;
 }
- /* .hh{
-    position: absolute;
-    top:50%;
-    right: 0;
-    display: block;
-    width: 100%;
-    text-align: center;
-    bottom:0;
-    background:rgba(0,0,0,0.8);
-    opacity: 0;
-    transition: all 0.5s;
-    /* z-index: 1; */
-    /* position: absolute;
-
-}
-.dep-img:hover .hh{
-    opacity: 1;
-    z-index: 99;
-    transform: scale(0.72);
-}  */ 
+ 
+.dep-img:hover {
+    transform: scale(0.75);
+}   
